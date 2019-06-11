@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the Stackdriver Trace API (version v2).
 
 Generated from: https://api.apis.guru/v2/specs/googleapis.com/tracing/v2/swagger.json<br/>
-Generated at: 2019-05-23T12:13:46+03:00
+Generated at: 2019-06-11T18:14:36+03:00
 
 ## API Description
 
